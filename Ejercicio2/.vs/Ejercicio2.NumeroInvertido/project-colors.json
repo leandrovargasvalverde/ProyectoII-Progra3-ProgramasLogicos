@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45885609-c59a-41df-a5d6-86e6a3932a98": {
+      "ProjectGuid": "45885609-c59a-41df-a5d6-86e6a3932a98",
+      "DisplayName": "Ejercicio2.NumeroInvertido",
+      "ColorIndex": 0
+    },
+    "c993f108-9010-4580-a683-4971fb3b4794": {
+      "ProjectGuid": "c993f108-9010-4580-a683-4971fb3b4794",
+      "DisplayName": "Ejercicio3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

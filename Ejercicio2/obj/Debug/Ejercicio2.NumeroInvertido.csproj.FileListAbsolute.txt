@@ -1,0 +1,8 @@
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\bin\Debug\Ejercicio2.NumeroInvertido.exe.config
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\bin\Debug\Ejercicio2.NumeroInvertido.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\bin\Debug\Ejercicio2.NumeroInvertido.pdb
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\obj\Debug\Ejercicio2.NumeroInvertido.csproj.AssemblyReference.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\obj\Debug\Ejercicio2.NumeroInvertido.csproj.SuggestedBindingRedirects.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\obj\Debug\Ejercicio2.NumeroInvertido.csproj.CoreCompileInputs.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\obj\Debug\Ejercicio2.NumeroInvertido.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\Proyecto2-Progra3-ProgramasLogicos\Ejercicio2.NumeroInvertido\obj\Debug\Ejercicio2.NumeroInvertido.pdb
