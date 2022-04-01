@@ -5,7 +5,17 @@
       "ProjectGuid": "c993f108-9010-4580-a683-4971fb3b4794",
       "DisplayName": "Ejercicio3",
       "ColorIndex": 0
+    },
+    "47741b61-c18a-4cda-8405-dbbebb2214a1": {
+      "ProjectGuid": "47741b61-c18a-4cda-8405-dbbebb2214a1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "7dca91d4-0a7f-4462-8d0e-c7cbcc85a9c8": {
+      "ProjectGuid": "7dca91d4-0a7f-4462-8d0e-c7cbcc85a9c8",
+      "DisplayName": "Ejercicio2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
