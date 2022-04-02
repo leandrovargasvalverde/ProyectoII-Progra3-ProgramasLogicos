@@ -6,3 +6,11 @@ C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5
 C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
 C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.exe
 C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.pdb
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.csproj.SuggestedBindingRedirects.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio5\obj\Debug\Ejercicio5.pdb

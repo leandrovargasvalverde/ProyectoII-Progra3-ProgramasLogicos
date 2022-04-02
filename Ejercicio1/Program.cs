@@ -7,10 +7,8 @@ DESCRIPCION:
 Un algoritmo que convierta la hora en letras, por ejemplo "12:40" deberia imprimir "Doce horas y cuarenta minutos".*/
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-namespace codigoBlog
+
+namespace Ejercicio_1_Proyecto_II
 {
     class Program
     {

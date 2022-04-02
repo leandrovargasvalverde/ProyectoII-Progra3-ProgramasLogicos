@@ -1,0 +1,8 @@
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\bin\Debug\Ejercicio4.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\bin\Debug\Ejercicio4.pdb
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\obj\Debug\Ejercicio4.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio4\obj\Debug\Ejercicio4.pdb

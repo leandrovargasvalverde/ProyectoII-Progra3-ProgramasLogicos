@@ -8,10 +8,6 @@ Crear un programa que pida números positivos al usuario,
 y vaya calculando la suma de todos ellos (terminará cuando se teclea un número negativo o cero).*/
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ejercicio_5_Proyecto_II
 {
@@ -37,4 +33,3 @@ namespace Ejercicio_5_Proyecto_II
         }
     }
 }
-

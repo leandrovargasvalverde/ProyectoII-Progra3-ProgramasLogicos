@@ -1,0 +1,7 @@
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\bin\Debug\Ejercicio6.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\bin\Debug\Ejercicio6.pdb
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\obj\Debug\Ejercicio6.csproj.SuggestedBindingRedirects.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\obj\Debug\Ejercicio6.exe
+D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio6\obj\Debug\Ejercicio6.pdb

@@ -6,14 +6,9 @@ EJERCICIO 2 PROYECTO II
 DESCRIPCION:
 Un algoritmo que invierta los valores de un entero de 2 digitos, por ejemplo si recibi 45 se debe imprimir 54.*/
 
-
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Ejercicio2.NumeroInvertido
+namespace Ejercicio_2_Proyecto_II
 {
     internal class Program
     {
