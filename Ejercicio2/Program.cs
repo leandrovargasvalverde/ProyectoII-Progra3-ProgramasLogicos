@@ -14,16 +14,25 @@ namespace Ejercicio_2_Proyecto_II
     {
         static void Main(string[] args)
         {
-            string ingresoNumero;
-            int Num, Decimal, Uni, Operacion;
-            Console.Write("\n Digite un numero de 2 digitos: ");
-            ingresoNumero = Console.ReadLine();
-            Num = int.Parse(ingresoNumero);
-            Decimal = Num / 10;
-            Uni = Num % 10;
-            Operacion = (Uni * 10) + Decimal;
-            Console.WriteLine("\n El numero que digito invertido es: " + Operacion);
-            Console.ReadKey();
+            try
+            {
+                string ingresoNumero;
+                int Num, Decimal, Uni, Operacion;
+                Console.Write("\n Digite un numero de 2 digitos: ");
+                ingresoNumero = Console.ReadLine();
+                Num = int.Parse(ingresoNumero);
+                Decimal = Num / 10;
+                Uni = Num % 10;
+                Operacion = (Uni * 10) + Decimal;
+                Console.WriteLine("\n El numero que digito invertido es: " + Operacion);
+                Console.ReadKey();
+            }
+            catch (Exception error)
+            {
+                Console.WriteLine("\n El digito ingresado es incorrecto", error);
+                Console.ReadKey();
+            }
+
         }
     }
 }

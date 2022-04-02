@@ -20,7 +20,27 @@
       "ProjectGuid": "bf4357ce-1ee7-4069-b7ae-2be64c774399",
       "DisplayName": "Ejercicio7",
       "ColorIndex": 3
+    },
+    "4c141620-e601-465f-a65e-d0bafdf11f5a": {
+      "ProjectGuid": "4c141620-e601-465f-a65e-d0bafdf11f5a",
+      "DisplayName": "Ejercicio5",
+      "ColorIndex": 4
+    },
+    "5bf6fed8-c299-40ec-a256-d697ded5208e": {
+      "ProjectGuid": "5bf6fed8-c299-40ec-a256-d697ded5208e",
+      "DisplayName": "Ejercicio1",
+      "ColorIndex": 5
+    },
+    "8c5a6c2d-a870-4bdb-b874-aad5e96aeaf8": {
+      "ProjectGuid": "8c5a6c2d-a870-4bdb-b874-aad5e96aeaf8",
+      "DisplayName": "Ejercicio4",
+      "ColorIndex": 6
+    },
+    "29481106-d7a1-408e-8f37-b417c37c39e8": {
+      "ProjectGuid": "29481106-d7a1-408e-8f37-b417c37c39e8",
+      "DisplayName": "Ejercicio6",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 8
 }

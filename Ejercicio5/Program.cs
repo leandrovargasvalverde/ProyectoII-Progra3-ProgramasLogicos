@@ -15,21 +15,30 @@ namespace Ejercicio_5_Proyecto_II
     {
         static void Main(string[] args)
         {
-            int numero = 1;
-            int suma = 0;
-
-            while (numero > 0)
+            try
             {
-                Console.Write(" Escriba un numero positivo: ");
-                numero = Convert.ToInt32(Console.ReadLine());
+                int numero = 1;
+                int suma = 0;
 
-                if (numero > 0)
+                while (numero > 0)
                 {
-                    suma = suma + numero;
+                    Console.Write(" Digite un numero positivo: ");
+                    numero = Convert.ToInt32(Console.ReadLine());
+
+                    if (numero > 0)
+                    {
+                        suma = suma + numero;
+                    }
                 }
+                Console.WriteLine("\n El resultado de la suma es: " + suma);
+                Console.ReadKey();
             }
-            Console.WriteLine("\n El resultado de la suma es: " + suma);
-            Console.ReadKey();
+            catch (Exception error)
+            {
+                Console.WriteLine("\n El digito ingresado es incorrecto", error);
+                Console.ReadKey();
+            }
+
         }
     }
 }
