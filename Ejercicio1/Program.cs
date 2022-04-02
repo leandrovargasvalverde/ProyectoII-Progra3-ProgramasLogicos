@@ -17,7 +17,7 @@ namespace Ejercicio_1_Proyecto_II
             try
             {
                 string[] unidades =
-                            {"cero", "uno", "dos" ,"tres" ,"cuatro" ,"cinco" ,
+                {"cero", "uno", "dos" ,"tres" ,"cuatro" ,"cinco" ,
                 "seis" ,"siete" ,"ocho" ,"nueve","diez"};
 
                 string[] especiales =
@@ -26,7 +26,7 @@ namespace Ejercicio_1_Proyecto_II
 
                 string[] decenas =
                 {"veinte", "treinta","cuarenta","cincuenta",
-                "sesenta", "setenta", "ochenta", "noventa"};
+                "sesenta"};
 
                 Console.Write(" Ingrese el valor de horas: ");
                 int horas = Convert.ToInt32(Console.ReadLine());
@@ -38,7 +38,7 @@ namespace Ejercicio_1_Proyecto_II
                     Console.Write('\n' + " RESULTADO " + '\n' + " " + unidades[horas] + " horas");
                 else if (horas < 20)
                     Console.Write('\n' + " RESULTADO " + '\n' + " " + especiales[horas - 11] + " horas");
-                else if (horas < 100)
+                else if (horas <= 24)
                 {
                     int unid = horas % 10;
                     int dec = horas / 10;
@@ -48,14 +48,14 @@ namespace Ejercicio_1_Proyecto_II
                         Console.Write('\n' + " RESULTADO " + '\n' + " " + decenas[dec - 2] + " y " + unidades[unid] + " horas");
                 }
                 else
-                    Console.WriteLine(" El numero debe ser menor o igual a 60");
+                    Console.WriteLine(" El numero de horas debe ser menor o igual a 24");
 
 
                 if (minutos >= 0 && minutos < 11)
                     Console.Write(" y " + unidades[minutos] + " minutos ");
                 else if (minutos < 20)
                     Console.Write(" y " + especiales[minutos - 11] + " minutos ");
-                else if (minutos < 100)
+                else if (minutos <= 60)
                 {
                     int unid = minutos % 10;
                     int dec = minutos / 10;
@@ -65,7 +65,7 @@ namespace Ejercicio_1_Proyecto_II
                         Console.Write(" y " + decenas[dec - 2] + " y " + unidades[unid] + " minutos ");
                 }
                 else
-                    Console.WriteLine(" El numero debe ser menor o igual a 60");
+                    Console.WriteLine(" El numero de minutos debe ser menor o igual a 60");
 
                 Console.ReadLine();
             }
