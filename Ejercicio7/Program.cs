@@ -10,6 +10,44 @@ namespace Ejercicio7
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" Bienvenido al juego de Adivinar un Número del 0 al 10");
+            Console.Write("\n Nombre del Jugador 1: ");
+            string player1 = Console.ReadLine();
+            Console.Write("\n Nombre del Jugador 2: ");
+            string player2 = Console.ReadLine();
+            Console.Write($"\n Jugador 1: {player1} Introduzca un número entre 0 y 10: ");
+            int nIntroducido = Int32.Parse(Console.ReadLine());
+            Random numero = new Random();
+            int numeroAleatorio = numero.Next(1, 1);
+            while (nIntroducido != numeroAleatorio)
+            {
+                Console.WriteLine($"\n El Jugador 1: {player1} no adivinó el número");
+                Console.Write($"\n Jugador 2: {player2} Introduzca un número entre 0 y 10: ");
+                int nIntroducido2 = Int32.Parse(Console.ReadLine());
+                if (nIntroducido2 != numeroAleatorio)
+                {
+                    Console.WriteLine($"\n El Jugador 2: {player2} no adivinó el número");
+                    Console.Write($"\n Jugador 1: {player1} Introduzca un número entre 0 y 10: ");
+                    int nIntroducido3 = int.Parse(Console.ReadLine());
+                    if (nIntroducido3 == numeroAleatorio)
+                    {
+                        Console.WriteLine($"\n El jugador 1: {player1} ha adivinado el número");
+                        Console.ReadKey();
+                        break;
+                    }
+                }
+                else if (nIntroducido2 == numeroAleatorio)
+                {
+                    Console.WriteLine($"\n El Jugador 2: {player2} ha adivinado el número");
+                    Console.ReadKey();
+                    break;
+                }
+            }
+            if (nIntroducido == numeroAleatorio)
+            {
+                Console.WriteLine($"\n El Jugador 1: {player1} ha adivinado el número");
+                Console.ReadKey();
+            }
         }
     }
 }
