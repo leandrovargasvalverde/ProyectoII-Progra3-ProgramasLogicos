@@ -1,10 +1,16 @@
-﻿using System;
+﻿
+/*UNIVERSIDAD CASTRO CARAZO - PROGRAMACION III
+GRUPO #2
+EJERCICIO 3 PROYECTO II
+
+DESCRIPCION:
+El usuario debe ingresar dos números y el programa mostrará el resultado de la operación (a+b)*(a-b).*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-/* 3.El usuario debe ingresar dos números y el programa mostrará el resultado de la operación (a+b)*(a-b). */
 
 namespace Ejercicio3
 {

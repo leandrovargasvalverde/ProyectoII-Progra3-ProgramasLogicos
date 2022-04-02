@@ -5,3 +5,11 @@ D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3
 D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
 D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.exe
 D:\LEANDRO\Trabajos de la U\Programación de Computadoras III\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Jose Ureña\source\repos\ProyectoII-Progra3-ProgramasLogicos\Ejercicio2\obj\Debug\Ejercicio2.pdb

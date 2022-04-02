@@ -1,10 +1,17 @@
-﻿using System;
+﻿
+/*UNIVERSIDAD CASTRO CARAZO - PROGRAMACION III
+GRUPO #2
+EJERCICIO 2 PROYECTO II
+
+DESCRIPCION:
+Un algoritmo que invierta los valores de un entero de 2 digitos, por ejemplo si recibi 45 se debe imprimir 54.*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-/* 2.Un algoritmo que invierta los valores de un entero de 2 digitos, por ejemplo si recibi 45 se debe imprimir 54. */
 
 namespace Ejercicio2.NumeroInvertido
 {

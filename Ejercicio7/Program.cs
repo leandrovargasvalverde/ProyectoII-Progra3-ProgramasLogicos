@@ -1,4 +1,13 @@
-﻿using System;
+﻿
+/*UNIVERSIDAD CASTRO CARAZO - PROGRAMACION III
+GRUPO #2
+EJERCICIO 7 PROYECTO II
+
+DESCRIPCION:
+Elabore un programa que genere un número aleatorio y que les dé la posibilidad a dos jugadores de adivinar dicho número, 
+el algoritmo debe intercalar los turnos para adivinar y mostrar el ganador final. El número debe estar entre 0-10*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
